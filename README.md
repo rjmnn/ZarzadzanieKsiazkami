@@ -30,11 +30,11 @@ Instalacja MySQL:
 
 CREATE DATABASE mydatabase;
 
-4. W bazie mydatabase utwórz tabelę books i dodaj przykładowe dane - przykłądowy skrypt do utworzenia tabeli znajduje się w repozytorium w folderze resources.
+4. W bazie mydatabase utwórz tabelę books i dodaj przykładowe dane - przykładowy skrypt do utworzenia tabeli znajduje się w repozytorium w folderze resources.
 
 Kod: 
 
-5. Przejdź do strony repozytorium Zarzadzanieksiazkami na GitHubie. Kliknij przycisk Code i skopiuj URL repozytorium (HTTPS). Następnie sklonuj repozytorium na komputerze.
+5. Przejdź do strony repozytorium ZarzadzanieKsiazkami na GitHubie. Kliknij przycisk Code i skopiuj URL repozytorium (HTTPS). Następnie sklonuj repozytorium na komputerze.
 
 IDE:
 
