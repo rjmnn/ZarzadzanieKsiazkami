@@ -1,4 +1,4 @@
-# ZarzadzanieKsiazkami\
+# ZarzadzanieKsiazkami
 
 Spis Treści
 1. Opis Projektu
@@ -7,13 +7,17 @@ Spis Treści
 
 
 Opis Projektu:
+
 Projekt "Zarządzanie książkami" to aplikacja umożliwiająca zarządzanie kolekcją książek. Użytkownik może przeszukiwać dostępne książki według gatunku, dodawać nowe pozycje do bazy danych oraz usuwać istniejące wpisy.
 
 
+
 Funkcjonalności:
+
 - Wyszukiwanie książek według gatunku
 - Dodawanie nowych książek do bazy danych
 - Usuwanie istniejących książek z bazy danych
+
 
 
 Instrukcja Obsługi:
